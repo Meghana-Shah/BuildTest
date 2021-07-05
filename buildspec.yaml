@@ -6,7 +6,7 @@ shell: bash
 env:
   variables:
     "testEnv" : "testValue1"
-    "major_version" : "5"
+    "shah" : "meghana_test"
     #"minor_version" : "2"
   exportedVariables:
     - testEnv

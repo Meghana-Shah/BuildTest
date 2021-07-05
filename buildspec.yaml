@@ -10,7 +10,7 @@ env:
     #"minor_version" : "2"
   exportedVariables:
     - testEnv
-    - major_version
+    - shah
     #- minor_version
 steps:
   - type: Command
